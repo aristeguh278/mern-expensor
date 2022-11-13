@@ -1,0 +1,1 @@
+export const mongo_uri='mongodb://aris:aris123@ac-gjonh9j-shard-00-00.5yivqfd.mongodb.net:27017,ac-gjonh9j-shard-00-01.5yivqfd.mongodb.net:27017,ac-gjonh9j-shard-00-02.5yivqfd.mongodb.net:27017/?ssl=true&replicaSet=atlas-8dsz5k-shard-0&authSource=admin&retryWrites=true&w=majority';
